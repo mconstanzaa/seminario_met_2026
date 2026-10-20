@@ -1,0 +1,20 @@
+
+.reveal .title {
+  color: #9467bd;
+}
+
+.reveal .slide h2 {
+  color: #9467bd;
+  text-align: center; /* Opcional: centrar títulos */
+    line-height: 1; /* Ajusta según necesites */
+}
+
+.reveal {
+  color: #444444; /* Puedes ajustar este valor */
+}
+
+
+.reveal .slides section.title .institute,
+.reveal .slides section.title .quarto-title-authors {
+  text-align: center;
+}
